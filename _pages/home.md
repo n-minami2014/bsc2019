@@ -1,6 +1,5 @@
 ---
-permalink: /
+permalink: /home/
 title: "親児の会 防災お泊まりキャンプ 2019"
 ---
-# ほげほげ
 準備中です

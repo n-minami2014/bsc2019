@@ -1,9 +1,9 @@
 main:
   - title: "トップページ"
     url: /home/
-  - title: "カテゴリ"
+  - title: "お知らせ"
     url: /categories/
-  - title: "タグ"
+  - title: "準備状況"
     url: /tags/
 #  - title: "About"
 #    url: /about/

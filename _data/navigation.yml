@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "トップ"
+    url: /welcome/
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"

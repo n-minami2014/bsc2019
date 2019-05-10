@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "親児の会"
+  name   : "長町南小 親児の会"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "親児にまかせろ!!"
 #  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"

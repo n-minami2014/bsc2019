@@ -3,7 +3,7 @@ permalink: /application/
 title: "応募方法"
 ---
 # 応募方法
-下記を記載したメールを ```xxxxxx＠gmail.com``` まで送って下さい。
+下記を記載したメールを `xxxxxx＠gmail.com` まで送って下さい。
 
 <注意>
 

@@ -2,7 +2,7 @@
 permalink: /application/
 title: "応募方法"
 ---
-下記のURLから *応募フォーム* にアクセスし，必要事項を記入の上，送信して下さい：
+下記のURLから *応募フォーム* にアクセスし，必要事項を記入の上，送信して下さい：  
 https://forms.gle/gzxK3f4SEjCXQUYk7
 
 ## 応募〆切

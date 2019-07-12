@@ -3,7 +3,7 @@ permalink: /application/
 title: "応募方法"
 ---
 下記のURLから応募フォームにアクセスし，必要事項を記入の上，送信して下さい：  
-https://forms.gle/gzxK3f4SEjCXQUYk7
+[https://forms.gle/gzxK3f4SEjCXQUYk7](https://forms.gle/gzxK3f4SEjCXQUYk7)
 
 ## 応募〆切
 令和元年8月25日(日) 23:59

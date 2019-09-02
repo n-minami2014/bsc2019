@@ -18,19 +18,19 @@ tags:
 牛乳パックは燃料として使用します．
 1. 洗った後，広げて乾燥させる
 
-  ![milk1.jpeg](./milk1.jpeg)
+  ![milk1.jpeg](/assets/images/milk1.jpeg)
   
 2. 折り目で5つのパーツに切り分ける
 
-  ![milk2.jpeg](./milk2.jpeg)
+  ![milk2.jpeg](/assets/images/milk2.jpeg)
   
 3. それぞれのパーツを短辺に平行に 1.5cm 幅で切る
 
-  ![milk3.jpeg](./milk3.jpeg)
+  ![milk3.jpeg](/assets/images/milk3.jpeg)
 
 4. 学年・組・氏名を書いた紙と一緒に輪ゴムで束ねる
 
-  ![milk4.jpeg](./milk4.jpeg)
+  ![milk4.jpeg](/assets/images/milk4.jpeg)
 
 ## 空き缶の加工方法
 2つの空き缶のうち，1つを「釜」，もう1つを「カマド」として使用します．  
@@ -40,13 +40,13 @@ tags:
 
 1. 空き缶の上部を2つとも缶切りで切り取る．「釜」はこれで完成．
 
-  ![can1.jpeg](./can1.jpeg)
+  ![can1.jpeg](/assets/images//can1.jpeg)
 
 2. 「カマド」の側面にカッターなどで穴を開ける．それぞれの穴は幅3cm, 高さ1.5cm．上下2つづつ合計4つの穴を開ける．
 
-  ![can2.png](./can2.png)![can3.jpeg](./can3.jpeg)
+  ![can2.png](/assets/images//can2.png)![can3.jpeg](/assets/images//can3.jpeg)
   
 3. キレイに切れなかったり，多少穴が大きくなったりしても大丈夫です．
 
-  ![can4.jpeg](./can4.jpeg) ![can5.jpeg](./can5.jpeg)
+  ![can4.jpeg](/assets/images//can4.jpeg) ![can5.jpeg](/assets/images//can5.jpeg)
 

@@ -40,13 +40,13 @@ tags:
 
 1. 空き缶の上部を2つとも缶切りで切り取る．「釜」はこれで完成．
 
-  ![can1.jpeg](/assets/images//can1.jpeg)
+  ![can1.jpeg](/assets/images/can1.jpeg)
 
 2. 「カマド」の側面にカッターなどで穴を開ける．それぞれの穴は幅3cm, 高さ1.5cm．上下2つづつ合計4つの穴を開ける．
 
-  ![can2.png](/assets/images//can2.png)![can3.jpeg](/assets/images//can3.jpeg)
+  ![can2.png](/assets/images/can2.png)![can3.jpeg](/assets/images/can3.jpeg)
   
 3. キレイに切れなかったり，多少穴が大きくなったりしても大丈夫です．
 
-  ![can4.jpeg](/assets/images//can4.jpeg) ![can5.jpeg](/assets/images//can5.jpeg)
+  ![can4.jpeg](/assets/images/can4.jpeg) ![can5.jpeg](/assets/images/can5.jpeg)
 

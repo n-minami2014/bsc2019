@@ -1,8 +1,10 @@
 main:
   - title: "ブログ"
     url: /posts/
-  - title: "カテゴリ"
-    url: /categories/
+  - title: "持ち物と食事"
+    utl: /items_meal/
+  - title: "スケジュール"
+    url: /agenda/
 #  - title: "タグ"
 #    url: /tags/
   - title: "開催概要"

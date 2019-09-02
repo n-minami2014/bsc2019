@@ -20,6 +20,9 @@ title: "当日スケジュール"
   (参考:[解説1](https://www.mkj.or.jp/media/files/pdf/sabameshi.pdf) / [解説2](https://esse-online.jp/trend/113847))
 - 夕食 (空き缶で炊いたご飯 + レトルトカレー + ツナ缶ローソク)  
   (参考:[ツナ缶ローソク](https://sonaeru.jp/goods/handiwork/groceries/g-8/))
+- 段ボールでパーティション作り
+- レクリエーション
+- 就寝
 
 ### 9/15(月)
 - 起床・ラジオ体操

@@ -1,5 +1,5 @@
 ---
-permalink: /application/
+permalink: /items_meal/
 title: "持ち物と食事メニュー"
 ---
 # 持ち物

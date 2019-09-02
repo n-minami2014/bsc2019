@@ -5,14 +5,14 @@ categories:
   - お知らせ
 tags:
 ---
-今回の防災お泊まりキャンプのイベントの1つとして，空き缶炊飯を体験してもらいます．  
-参考URL：[https://www.mkj.or.jp/media/files/pdf/sabameshi.pdf](https://www.mkj.or.jp/media/files/pdf/sabameshi.pdf)
+今回の防災お泊まりキャンプのイベントの1つとして，空き缶炊飯の体験を企画しています．  
 
 そのために，各ご家庭で，児童一人あたり，次をご用意いただけますようお願いいたします．
 * 350mL空き缶×2個
 * 牛乳パック(**1Lのもの×3個** もしくは学校給食用の **200mLのもの×9個**)
 
 それぞれ，下記の通りに加工して下さい．
+参考URL：[https://www.mkj.or.jp/media/files/pdf/sabameshi.pdf](https://www.mkj.or.jp/media/files/pdf/sabameshi.pdf)
 
 ## 牛乳パックの加工方法
 牛乳パックは燃料として使用します．

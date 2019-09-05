@@ -12,7 +12,7 @@ title: "当日スケジュール"
   - 怪我した人を運ぶ方法(両手搬送)の講習 (参考:[両手搬送](https://www.youtube.com/watch?v=1h4N92cgf_c))
   - もやい結び(自分結び/片手結び)の講習 (参考:[解説](http://www.ichikawa6.com/info/scouts_word/ma/post_91.html) /
   [動画1](https://youtu.be/A5De9sxfIPg) / [動画2](https://www.youtube.com/watch?v=U6h7KdvmK-I))
-  - 牛乳パックランタン (準備中)
+  - 牛乳パックランタン ([解説](/bsc2019/lantern/))
   - お米研ぎ体験 (空き缶炊飯の準備として)
 - おやつ & 減災アクションカードゲーム  
   (参考:[減災アクションカードゲーム](https://www.tohoku.u-coop.or.jp/shopping/goods/#tab-tohoku))

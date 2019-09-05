@@ -4,7 +4,7 @@ title: "牛乳パックランタン"
 ---
 牛乳パックの塗装面をはがして絵を描いて、2個100円の LED ライトを入れるだけのお手軽ランタンです。
 ## 作り方
-1. 牛乳パックを開きます(開かない方法もあります)  
+1. 牛乳パックを開きます(開かない方法もありますが，結構大変です．最後までキレイに剥くにはカッターとか使う必要があるかも．特にこだわりが無ければ，展開してからやった方がいいです)  
   ![lantern-01.jpg](/bsc2019/assets/images/lantern-01.jpg)
 2. ぐりぐりと「皮」をはがしていきます。多少残っても気にしてはいけません。  
   ![lantern-02.jpg](/bsc2019/assets/images/lantern-02.jpg)![lantern-03.jpg](/bsc2019/assets/images/lantern-03.jpg)![lantern-04.jpg](/bsc2019/assets/images/lantern-04.jpg)![lantern-05.jpg](/bsc2019/assets/images/lantern-05.jpg)

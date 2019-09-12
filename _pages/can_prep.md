@@ -3,7 +3,7 @@ permalink: /can_prep/
 title: "空き缶炊飯:準備編"
 ---
 今回の防災お泊まりキャンプのイベントの1つとして，空き缶炊飯の体験を企画しています．  
-まずは準備編．
+まずは準備編．[炊飯編はこちら](/bsc2019/can_cook/)．
 
 次のものをご用意下さい：
 * 350mL空き缶×2個
@@ -48,3 +48,5 @@ title: "空き缶炊飯:準備編"
 
   ![can4.jpeg](/bsc2019/assets/images/can4.jpeg) ![can5.jpeg](/bsc2019/assets/images/can5.jpeg)
 
+## 炊飯編
+[炊飯編はこちらです．]/bsc2019/can_cook/)

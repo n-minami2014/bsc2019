@@ -16,7 +16,7 @@ title: "当日スケジュール"
   - お米研ぎ体験 (空き缶炊飯の準備として)
 - おやつ & 減災アクションカードゲーム  
   (参考:[減災アクションカードゲーム](https://www.tohoku.u-coop.or.jp/shopping/goods/#tab-tohoku))
-- 夕食準備：空き缶炊飯 → [準備について](https://n-minami2014.github.io/bsc2019/お知らせ/post-akikan/)  
+- 夕食準備：空き缶炊飯 → [準備編](/bsc2019/can_prep/) | [炊飯編](/bsc2019/can_cook/)  
   (参考:[解説1](https://www.mkj.or.jp/media/files/pdf/sabameshi.pdf) / [解説2](https://esse-online.jp/trend/113847))
 - 夕食 (空き缶で炊いたご飯 + レトルトカレー + ツナ缶ローソク)  
   (参考:[ツナ缶ローソク](https://sonaeru.jp/goods/handiwork/groceries/g-8/))
